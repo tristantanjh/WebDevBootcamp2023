@@ -1,0 +1,21 @@
+<%- include("header") %>
+
+<div class="box" id="heading">
+  <h1><%= typeOfList %></h1>
+</div>
+
+<div class="box">
+  <% for (i = 0; i < arrNewItems.length; i++) { %>
+  <div class="item">
+    <input type="checkbox">
+    <p><%= arrNewItems[i] %></p>
+  </div>
+  <% } %>
+  
+  <form class="item" method="post" action="/">
+    <input type="text" name="addList" placeholder="New Item To-Do" autocomplete="off">
+    <button type="submit" name="whichList" value=<%= typeOfList %>>+</button> 
+  </form>
+</div>
+
+<%- include("footer") %>

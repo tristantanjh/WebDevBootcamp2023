@@ -1,0 +1,15 @@
+<%- include('partials/header') %>
+
+  <h1>Home</h1>
+  <p><%= homeContent %></p>
+
+  <% for (i = 0; i < postsArr.length; i++) { %>
+    <h1><%= postsArr[i].title %></h1>
+    <p>
+      <%= postsArr[i].body.substring(0, 100) + " ... " %> 
+      <a href="/posts/<%= postsArr[i].title.toLowerCase().replace(/\s+/g, '-') %>">Read More</a>
+    </p>
+    
+  <% } %>
+
+<%- include('partials/footer') %>

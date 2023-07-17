@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mondrian Project</title>
+  <style>
+    /* 
+    Write your CSS here 
+    Gap Colour: #000
+    White: #F0F1EC
+    Red: #E72F24
+    Black: #232629
+    Blue: #004592
+    Yellow: #F9D01E
+
+    For dimensions, see dimensions.png image.
+    HINT: Remember you can't change the properties of grid lines.
+    But grid lines are transparent!
+    */
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    .grid-container {
+      background-color: black;
+      display: inline-grid;
+      gap: 9px;
+      grid-template-columns: 320px 351px 50px;
+      grid-template-rows: 414px 285px 20px;
+    }
+
+    .rb {
+      background-color: #E72F24;
+    }
+
+    .wb {
+      background-color: #F0F1EC;
+    }
+
+    #w1 {
+      grid-column: span 2;
+    }
+
+    .gridbox {
+      background-color: black;
+    }
+
+    #gb1 {
+      grid-row: span 2;
+      display: grid;
+      grid-template-rows: 130px auto;
+      grid-template-columns: 50px;
+      gap: 18px;
+    }
+
+    #gb2 {
+      display: grid;
+      grid-template-columns: 198px auto;
+      grid-template-rows: 20px;
+      gap: 9px;
+    }
+
+    .bb {
+      background-color: #004592;
+    }
+
+    .yb {
+      background-color: #F9D01E;
+    }
+
+    .bkb {
+      background-color: #232629;
+    }
+    
+  </style>
+</head>
+
+<body>
+  <!-- Write your HTML here -->
+  <div class="grid-container">
+    <div class="rb"></div>
+    <div class="wb" id="w1"></div>
+    <div class="wb" id="w2"></div>
+    <div class="wb" id="w3"></div>
+    <div class="gridbox" id="gb1">
+      <div class="bb"></div>
+      <div class="wb" id="wInside"></div>
+    </div>
+    <div class="wb" id="w4"></div>
+    <div class="gridbox" id="gb2">
+      <div class="yb"></div>
+      <div class="bkb"></div>
+    </div>
+  </div>
+</body>
+
+</html>
