@@ -31,7 +31,7 @@ I also learned to implement third-party authentication, such as Google Sign-In, 
 
 ### Projects
 
-During the duration of this course, I have successfully completed numerous projects, both with the assistance of video lectures and independently. While there are numerous smaller projects that I have worked on, I will only highlight a few notable ones below.
+Throughout the course, I have completed multiple projects, both with guidance from video lectures and independently. This repository includes all the projects I have worked on, ranging from small assignments to more significant undertakings. Although there are numerous projects in this repository, I will showcase a few notable ones below.
 
 #### Simon Game
 The Simon game app is a digital adaptation of the classic memory game, Simon. It challenges players to remember and replicate a sequence of colors and sounds.
