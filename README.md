@@ -40,7 +40,7 @@ The core learning outcomes from creating this app include gaining proficiency in
 
 <img src="https://drive.google.com/uc?export=view&id=1N5UiPjnRrlImHtG1FwG2DKK02LUGYJXl">
 
-Check out the application [here](https://tristantanjh.github.io/Simon-Game/).    
+Check out the application [here](https://tristantanjh.github.io/Simon-Game/)!    
 Source code and full documentation can be found [here](https://github.com/tristantanjh/Simon-Game).   
 
 #### Secrets
@@ -60,7 +60,7 @@ Not only that, building the Keeper app also provided me with an opportunity to l
 
 <img src="https://drive.google.com/uc?export=view&id=1j4easVBbDG5uDlmGsnjhmamGv3z_kcz4"> 
 
-Check out the application [here](https://tristantanjh.github.io/KeeperApp/).    
+Check out the application [here](https://tristantanjh.github.io/KeeperApp/)!    
 Source code and full documentation can be found [here](https://github.com/tristantanjh/KeeperApp).   
 
 #### Wiki API
