@@ -33,9 +33,29 @@ I also learned to implement third-party authentication, such as Google Sign-In, 
 
 During the duration of this course, I have successfully completed numerous projects, both with the assistance of video lectures and independently. While there are numerous smaller projects that I have worked on, I will only highlight a few notable ones below.
 
+#### Simon Game
+The Simon game app is a digital adaptation of the classic memory game, Simon. It challenges players to remember and replicate a sequence of colors and sounds.
+
+The core learning outcomes from creating this app include gaining proficiency in jQuery, improving JavaScript syntax, and understanding fundamental concepts such as event handling, DOM manipulation, and game logic implementation. Through this project, I deepened my knowledge of front-end development and honed my skills in creating interactive and engaging web applications.
+
+<img src="https://drive.google.com/uc?export=view&id=1N5UiPjnRrlImHtG1FwG2DKK02LUGYJXl">
+
+Check out the application [here](https://tristantanjh.github.io/Simon-Game/).    
+Source code and full documentation can be found [here](https://github.com/tristantanjh/Simon-Game).   
+
+#### Secrets
+The Secrets authentication app provides a secure platform for users to register, login, and share secrets anonymously. By building this app, I acquired essential knowledge in authentication mechanisms, including password hashing, encryption, and user session management. 
+
+The core skills I developed while working on this project include implementing authentication with Passport.js, handling user registration and login, and securely storing sensitive information. This project allowed me to enhance my understanding of user authentication and security measures in web development, equipping me with valuable skills for building robust and secure applications.
+
+<img src="https://drive.google.com/uc?export=view&id=1OhzmiHvgR3tB1UPB-93vgZOijfllxHuq"> 
+
+Source code and full documentation can be found [here](https://github.com/tristantanjh/Secrets).   
+
 #### Keeper App
-This note-taking app is specifically developed for practicing React.js and focuses solely on the front-end implementation. As the backend functionality is not integrated, data cannot be saved beyond a single session. 
-Working on this project allowed me to gain valuable insights into React.js and become familiar with Material UI, a React component library. <br /> <br />
+Keeper is a React-based note-taking app that enables users to create, edit, and organize their personal notes seamlessly. This project provided valuable insights into React development, including state management, component-based architecture, and efficient rendering. By working on Keeper, I deepened my understanding of React syntax, JSX, and React hooks, which allowed me to create dynamic and responsive user interfaces. 
+
+Not only that, building the Keeper app also provided me with an opportunity to learn and utilize Material-UI. By incorporating Material-UI into the Keeper app, I gained proficiency in using its components to create a visually appealing and consistent user interface. <br /> <br />
 **Note:** I am currently in the process of integrating this app with a database to transform it into a fully-fledged project.
 
 <img src="https://drive.google.com/uc?export=view&id=1j4easVBbDG5uDlmGsnjhmamGv3z_kcz4"> 
