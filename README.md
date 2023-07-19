@@ -43,6 +43,13 @@ The core learning outcomes from creating this app include gaining proficiency in
 Check out the application [here](https://tristantanjh.github.io/Simon-Game/)!    
 Source code and full documentation can be found [here](https://github.com/tristantanjh/Simon-Game).   
 
+#### Wiki API
+This project is a RESTful API built with Express.js and MongoDB, providing users with access to routes for making API calls to a database resembling Wikipedia. It enables various operations, including retrieving articles, creating new ones, updating existing articles, and deleting articles.
+
+Through working on this project, I gained hands-on experience in building RESTful APIs using Express.js and integrating them with a MongoDB database. I learned how to create and handle routes, implement CRUD operations, and ensure data persistence. This project deepened my understanding of backend development, API design principles, and working with databases.
+
+Source code and full documentation can be found [here](https://github.com/tristantanjh/Wiki-API).   
+
 #### Secrets
 The Secrets authentication app provides a secure platform for users to register, login, and share secrets anonymously. By building this app, I acquired essential knowledge in authentication mechanisms, including password hashing, encryption, and user session management. 
 
@@ -62,13 +69,6 @@ Not only that, building the Keeper app also provided me with an opportunity to l
 
 Check out the application [here](https://tristantanjh.github.io/KeeperApp/)!    
 Source code and full documentation can be found [here](https://github.com/tristantanjh/KeeperApp).   
-
-#### Wiki API
-This project is a RESTful API built with Express.js and MongoDB, providing users with access to routes for making API calls to a database resembling Wikipedia. It enables various operations, including retrieving articles, creating new ones, updating existing articles, and deleting articles.
-
-Through working on this project, I gained hands-on experience in building RESTful APIs using Express.js and integrating them with a MongoDB database. I learned how to create and handle routes, implement CRUD operations, and ensure data persistence. This project deepened my understanding of backend development, API design principles, and working with databases.
-
-Source code and full documentation can be found [here](https://github.com/tristantanjh/Wiki-API).   
 
 ### Acknowledgment
 Dr. Angela Yu for her comprehensive web development bootcamp course, which served as the foundation for all the projects found here. Visit her Udemy profile [here](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/)!
